@@ -21,5 +21,3 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilanghadi&show_icons=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&theme=tokyonight)](https://github.com/gilanghadi/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilanghadi&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)](https://github.com/gilanghadi/github-readme-stats)
-
-![Animasi ular]( https://github.com/gilanghadi/gilanghadi/blob/output/github-contribution-grid-snake.svg )
