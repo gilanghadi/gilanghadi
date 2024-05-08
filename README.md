@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=6FC7E1&height=300&section=header&text=Gilanghadi&fontSize=90&fontColor=000000&stroke=6FC7E1" />
-<img src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="400" alt="right" alt="coding"/>
+<img src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="400" align="right" alt="coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gilanghadi&label=Profile%20views&color=0e75b6&style=flat" alt="gilanghadi" /> </p>
 
