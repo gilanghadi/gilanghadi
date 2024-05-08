@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=6FC7E1&height=300&section=header&text=Gilanghadi&fontSize=90&fontColor=000000&stroke=6FC7E1" />
-
+<iframe src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gilanghadi&label=Profile%20views&color=0e75b6&style=flat" alt="gilanghadi" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://gilanghadi.vercel.app/](https://gilanghadi.vercel.app/)
