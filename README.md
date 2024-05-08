@@ -1,5 +1,28 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=6FC7E1&height=300&section=header&text=Gilanghadi&fontSize=90&fontColor=000000&stroke=6FC7E1" />
 
+<h1 align="center">Hi 👋, I'm Gilanghadi</h1>
+<h3 align="center">Backend Developer | Frontend Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gilanghadi&label=Profile%20views&color=0e75b6&style=flat" alt="gilanghadi" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://gilanghadi.vercel.app/](https://gilanghadi.vercel.app/)
+
+- 💬 Ask me about **Website**
+
+- 📫 How to reach me **gilangsaputro987@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gilang-hadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gilang-hadi/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/gilanghhadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gilanghhadi/" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilanghadi&show_icons=true&locale=en&layout=compact" alt="gilanghadi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gilanghadi&show_icons=true&locale=en" alt="gilanghadi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gilanghadi&" alt="gilanghadi" /></p>
+
 <h2> 🚀  Some Tools I Have Used</h2> 
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45" alt="laravel"/>
