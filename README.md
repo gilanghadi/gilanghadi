@@ -36,4 +36,4 @@ src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" alt="css"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilanghadi&show_icons=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/gilanghadi/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilanghadi&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight)](https://github.com/gilanghadi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilanghadi&show_icons=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/gilanghadi/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilanghadi&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)](https://github.com/gilanghadi/github-readme-stats)
